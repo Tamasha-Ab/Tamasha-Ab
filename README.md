@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Tamasha-Ab! 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Tamasha-Ab&color=blueviolet)
 
-<!--
-**Tamasha-Ab/Tamasha-Ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and collaborating on exciting projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently learning new technologies and tools to expand my skill set.
+- 💻 I love working on open-source projects and sharing knowledge.
+- 🤝 I’m always open to collaborating on interesting ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamasha-Ab&layout=compact&langs_count=8&theme=radical)
+
+## 📊 Profile Stats
+
+![Tamasha-Ab's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamasha-Ab&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- Email: tamashaabesuriya@gmail.com
+- LinkedIn: www.linkedin.com/in/tamasha-abesuriya
+
