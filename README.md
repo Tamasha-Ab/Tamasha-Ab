@@ -43,8 +43,6 @@
 ---
 
 ## Most Used Languages
-
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamasha-Ab&theme=radical&langs_count=8)
-  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamasha-Ab&theme=radical&langs_count=8&hide=Jupyter%20Notebook)
   
   ---
