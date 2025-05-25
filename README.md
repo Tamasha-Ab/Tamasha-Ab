@@ -6,8 +6,8 @@
 
 ##  About Me
 
-  A passionate Computer Engineering undergraduate with a strong interest in machine learning and data science, eager to apply skills to real-world projects and contribute to innovative solutions. I am dedicated to taking on new challenges and gaining valuable career experience, with a focus on continuous learning, strong technical skills, and a detail-oriented approach.
-
+  Dedicated Computer Engineering undergraduate and current AI/ML Engineer intern with a deep passion for artificial intelligence, machine learning, and data science. Committed to leveraging cutting-edge technologies to develop innovative solutions that address complex real-world challenges. Demonstrates strong technical proficiency combined with a detail-oriented approach and unwavering commitment to continuous learning. Currently pursuing strategic opportunities to enhance AI/ML competencies and drive impactful results within dynamic, technology-driven environments.
+  
 ## Connect with Me
 
   - 💼 LinkedIn: www.linkedin.com/in/tamasha-abesuriya
